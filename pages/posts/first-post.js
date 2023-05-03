@@ -5,7 +5,7 @@ function prviPost() {
     <>
       <h1>Prvi post</h1>
       <h2>
-        <Link href="/">Nazad</Link>
+        <Link href="/">Nazada</Link>
       </h2>
     </>
   );
